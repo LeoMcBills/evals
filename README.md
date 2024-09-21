@@ -97,3 +97,4 @@ I am a world-class prompt engineer. I choose not to code. How can I contribute m
 ## Disclaimer
 
 By contributing to evals, you are agreeing to make your evaluation logic and data under the same MIT license as this repository. You must have adequate rights to upload any data used in an eval. OpenAI reserves the right to use this data in future service improvements to our product. Contributions to OpenAI evals will be subject to our usual Usage Policies: https://platform.openai.com/docs/usage-policies.
+
